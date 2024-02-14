@@ -1,27 +1,33 @@
 body { 
-    margin: 0px}
+    margin: 0px ;
+    margin-left: 10%;
+    margin-right: 10%;
+}
 
 .logo-thebooleaners {
-    width: 400px;}
+    width: 400px;
+}
 
 .background-logo {
-     background-color:rgb(140, 217, 243);
-     padding: 50px 0px}
+    background-image:  url(../img/pattern.png);
+    background-color:rgb(140, 217, 243);
+    padding: 50px 0px
+}
 
 .titolo-pagina{
-    margin-bottom: 0px}
+    margin-bottom: 0px
+}
    
  header {
+    margin-bottom: 10px;
     padding-bottom: 15px; ; 
-    background-image:  url(/img/pattern.png);
     background-size: 1250px;
-    }
+}
 
 header .intestazione-pagina { 
-    background-color: rgba(255, 255, 255, 0.836);
-    margin: 50px;
-    margin-bottom: 0px;
-    font-size: 40px;} 
+    margin:0px 50px;
+    font-size: 40px;
+} 
 
 header .intestazione-pagina  p {
     padding-left: 30px;
@@ -29,27 +35,69 @@ header .intestazione-pagina  p {
     border: 1px solid rgb(151, 150, 150);
     color: gray ;
     font-size: 30px ;
-    margin-top: 0px; width: 350px;}
+    margin-top: 0px; width: 350px;
+}
 
 header .intestazione-pagina  p  a {
     color : rgb(99, 193, 255) ;
-    text-decoration: none}
+    text-decoration: none
+}
 
 
 .sezione-generic-img {
-    margin: 50px;}
+    margin-bottom: 0;
+    margin: 50px
+}
 
 .img-tim-conferenza { 
     border-radius: 20px;
-    height:550px;}
+    height:550px;
+}
 
 .img-tim-profilo { 
     border-radius: 20px;
-    height: 550px;}
+    height: 550px;
+}
 
 .sezione-generic-img p {
     border-radius: 25px; 
     padding-bottom: 20px;
-    background-color: rgba(255, 255, 255, 0.616);
     margin-top: 0PX;
-    width: 500px}
+    width: 500px
+}
+
+    
+.sezione-lista-articolo { 
+    margin-left: 50px
+}
+
+.articolo-nota span {
+    background-color: #ffff00cc;
+}
+
+.list-articolo {
+   margin: 50px;
+   padding-left: 0 ;
+   margin-left: 15px;
+   font-weight: bold ;
+   font-size: 20px;
+}
+
+table { width: 100% ;font-size: 40PX;}
+
+
+
+.tabella-start
+{color: white;
+background-color:rgb(91, 130, 238) ;
+width: 50px;}
+
+footer{
+    padding: 50px;
+    text-align: 
+    center;
+    height: 50px;
+   width:  100%; background-color: rgb(81, 81, 180);
+}
+
+footer p {color: antiquewhite; margin-top: 0; font-size: 20px;}
