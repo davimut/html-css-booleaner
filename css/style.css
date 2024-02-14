@@ -1,0 +1,32 @@
+body { 
+    margin: 0px}
+
+.logo-thebooleaners {
+    width: 400px;}
+
+.background-logo {
+     background-color:rgb(140, 217, 243);
+     padding: 50px 0px}
+
+.titolo-pagina{
+    margin-bottom: 0px}
+
+header .intestazione-pagina { 
+    margin: 10px;
+    margin-bottom: 0px;
+    font-size: 40px} 
+    header .intestazione-pagina  p { 
+    color: gray ;
+    font-size: 30px ;
+    margin-top: 0px;}
+
+header .intestazione-pagina  p  a {
+    color : rgb(99, 193, 255) ;
+    text-decoration: none}
+
+.img-tim-conferenza {
+    height:550px;}
+
+.img-tim-profilo {
+    height: 550px;}
+.sezione-generic-img p {margin-top: 0PX;}
