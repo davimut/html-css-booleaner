@@ -10,23 +10,46 @@ body {
 
 .titolo-pagina{
     margin-bottom: 0px}
+   
+ header {
+    padding-bottom: 15px; ; 
+    background-image:  url(/img/pattern.png);
+    background-size: 1250px;
+    }
 
 header .intestazione-pagina { 
-    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.836);
+    margin: 50px;
     margin-bottom: 0px;
-    font-size: 40px} 
-    header .intestazione-pagina  p { 
+    font-size: 40px;} 
+
+header .intestazione-pagina  p {
+    padding-left: 30px;
+    border-radius: 20px;
+    border: 1px solid rgb(151, 150, 150);
     color: gray ;
     font-size: 30px ;
-    margin-top: 0px;}
+    margin-top: 0px; width: 350px;}
 
 header .intestazione-pagina  p  a {
     color : rgb(99, 193, 255) ;
     text-decoration: none}
 
-.img-tim-conferenza {
+
+.sezione-generic-img {
+    margin: 50px;}
+
+.img-tim-conferenza { 
+    border-radius: 20px;
     height:550px;}
 
-.img-tim-profilo {
+.img-tim-profilo { 
+    border-radius: 20px;
     height: 550px;}
-.sezione-generic-img p {margin-top: 0PX;}
+
+.sezione-generic-img p {
+    border-radius: 25px; 
+    padding-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.616);
+    margin-top: 0PX;
+    width: 500px}
