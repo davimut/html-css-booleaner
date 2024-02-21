@@ -89,27 +89,30 @@ table { width: 100% ;font-size: 40PX;}
 
 .tabella-start 
 { 
-    color: white;
-background-color:rgb(91, 130, 238) ;
-width: 50px;}
-
-footer{
-    margin-top: 50px;
-    padding: 50px;
-    text-align: 
-    center;
-    height: 40px;
-   width: 100; background-color: rgb(81, 81, 180);
-}
-
-footer p {color: antiquewhite; margin-top: 0; font-size: 20px;}
+color: white;
+background-color:rgb(26, 38, 71) ;
+width: 50px;top: 0; font-size: 20px;}
 
 
 
 .tabella-info { color: white;
-    background-color: rgb(114, 172, 175);
+    background-color: rgb(29, 95, 99);
 }
 
-.tabella-start td {
+.tabella-start td { background-color: darkcyan;
     width: 5px;
 }
+
+
+
+
+footer{
+    color: white;
+    margin-top: 50px;
+    padding: 30px  20px;
+    text-align: 
+    center;
+    height: 20px;
+   width: 100; background-color: rgb(81, 81, 180);
+}
+
